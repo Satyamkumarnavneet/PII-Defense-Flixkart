@@ -79,11 +79,11 @@ def mask_value(key, value):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python detector_Satyam Kumar Navneet.py <input_csv>")
+        print("Usage: python detector_Satyam_Kumar_Navneet.py <input_csv>")
         sys.exit(1)
 
     input_file = sys.argv[1]
-    output_file = "redacted_output_Satyam Kumar Navneet.csv"
+    output_file = "redacted_output_Satyam_Kumar_Navneet.csv"
 
     with open(output_file, 'w', newline='', encoding='utf-8') as out_f:
         writer = csv.writer(out_f)
