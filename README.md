@@ -102,7 +102,7 @@ The recommended deployment approach is **Sidecar Container at API Routes Proxy**
 Assignment/
 ├── detector_Satyam_Kumar_Navneet.py    # Main PII detection script
 ├── iscp_pii_dataset_-_Sheet1.csv       # Sample input dataset
-├── redacted_output_Satyam Kumar Navneet.csv  # Output file
+├── redacted_output_Satyam_Kumar_Navneet.csv  # Output file
 ├── deployment_strategy.md               # Deployment documentation
 ├── mermaid-diagram-2025-08-14-130116.png    # Architecture diagram
 └── README.md                            # This file
